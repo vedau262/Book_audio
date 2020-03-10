@@ -1159,7 +1159,7 @@
             "bookauthor": "Chưa rõ",
             "booknumber": 2,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Hon-Ngai-Truyen-Ma.jpg",
-            "bookurlmedia": "https://archive.org/download/honngai_201907/Truyện ma bùa ngải có thật nổi tiếng một thời - Đừng dại mà chơi ngải nha - HỒN NGẢI [TẬP 1].mp3,https://archive.org/download/honngai_201907/Truyện ma bùa ngải có thật nổi tiếng một thời - Đừng dại mà chơi ngải nha - HỒN NGẢI [TẬP 2 END].mp3",
+            "bookurlmedia": "https://ia801009.us.archive.org/8/items/honngai_201907/Truy%E1%BB%87n%20ma%20b%C3%B9a%20ng%E1%BA%A3i%20c%C3%B3%20th%E1%BA%ADt%20n%E1%BB%95i%20ti%E1%BA%BFng%20m%E1%BB%99t%20th%E1%BB%9Di%20-%20%C4%90%E1%BB%ABng%20d%E1%BA%A1i%20m%C3%A0%20ch%C6%A1i%20ng%E1%BA%A3i%20nha%20-%20H%E1%BB%92N%20NG%E1%BA%A2I%20[T%E1%BA%ACP%201].mp3,https://ia801009.us.archive.org/8/items/honngai_201907/Truy%E1%BB%87n%20ma%20b%C3%B9a%20ng%E1%BA%A3i%20c%C3%B3%20th%E1%BA%ADt%20n%E1%BB%95i%20ti%E1%BA%BFng%20m%E1%BB%99t%20th%E1%BB%9Di%20-%20%C4%90%E1%BB%ABng%20d%E1%BA%A1i%20m%C3%A0%20ch%C6%A1i%20ng%E1%BA%A3i%20nha%20-%20H%E1%BB%92N%20NG%E1%BA%A2I%20[T%E1%BA%ACP%202%20END].mp3",
             "bookshortdesc": "Mời quý thính giả cùng lắng nghe truyện ma rùng rợn Hồn Ngải qua giọng đọc Quàng A Tũn",
             "booknoibat": 0,
             "bookchude": "Ma - Kinh dị",
@@ -4246,7 +4246,15 @@
             "booksource": "https://truyenaudio.org/thanh-cong/day-con-lam-giau-2.html"
         }
     ]
-}/download/anhsangthanhpho_201807/NH%20S%C3%81NG%20TH%C3%80NH%20PH%E1%BB%90%20%235%20_%20L%C3%B4i%20M%E1%BB%85%20%28Matean%20ch%E1%BB%89nh%20s%E1%BB%ADa%29.mp3,https://archive.org/download/anhsangthanhpho_201807/NH%20S%C3%81NG%20TH%C3%80NH%20PH%E1%BB%90%20%236%20_%20L%C3%B4i%20M%E1%BB%85%20%28Matean%20ch%E1%BB%89nh%20s%E1%BB%ADa%29.mp3,https://archive.org/download/anhsangthanhpho_201807/NH%20S%C3%81NG%20TH%C3%80NH%20PH%E1%BB%90%20%237%20_%20L%C3%B4i%20M%E1%BB%85%20%28Matean%20ch%E1%BB%89nh%20s%E1%BB%ADa%29.mp3,https://archive.org/download/anhsangthanhpho_201807/NH%20S%C3%81NG%20TH%C3%80NH%20PH%E1%BB%90%20%238%20_%20L%C3%B4i%20M%E1%BB%85%20%28Matean%20ch%E1%BB%89nh%20s%E1%BB%ADa%29.mp3,https://archive.org/download/anhsangthanhpho_201807/NH%20S%C3%81NG%20TH%C3%80NH%20PH%E1%BB%90%20%239%20_%20L%C3%B4i%20M%E1%BB%85%20%28Matean%20ch%E1%BB%89nh%20s%E1%BB%ADa%29.mp3,https://archive.org/download/anhsangthanhpho_201807/NH%20S%C3%81NG%20TH%C3%80NH%20PH%E1%BB%90%20%2310_%20L%C3%B4i%20M%E1%BB%85%20%28Matean%20ch%E1%BB%89nh%20s%E1%BB%ADa%29.mp3,https://archive.org/download/anhsangthanhpho_201807/NH%20S%C3%81NG%20TH%C3%80NH%20PH%E1%BB%90%20%2311_%20L%C3%B4i%20M%E1%BB%85%20%28Matean%20ch%E1%BB%89nh%20s%E1%BB%ADa%29.mp3,https://archive.org/download/anhsangthanhpho_201807/NH%20S%C3%81NG%20TH%C3%80NH%20PH%E1%BB%90%20%2312_%20L%C3%B4i%20M%E1%BB%85%20%28Matean%20ch%E1%BB%89nh%20s%E1%BB%ADa%29.mp3,https://archive.org/download/anhsangthanhpho_201807/NH%20S%C3%81NG%20TH%C3%80NH%20PH%E1%BB%90%20%2313%20_%20L%C3%B4i%20M%E1%BB%85%20%28Matean%20ch%E1%BB%89nh%20s%E1%BB%ADa%29.mp3,https://archive.org/download/anhsangthanhpho_201807/NH%20S%C3%81NG%20TH%C3%80NH%20PH%E1%BB%90%20%2314%20_%20L%C3%B4i%20M%E1%BB%85%20%28Matean%20ch%E1%BB%89nh%20s%E1%BB%ADa%29.mp3,https://archive.org/download/anhsangthanhpho_201807/NH%20S%C3%81NG%20TH%C3%80NH%20PH%E1%BB%90%20%2315%20_%20L%C3%B4i%20M%E1%BB%85%20%28Matean%20ch%E1%BB%89nh%20s%E1%BB%ADa%29.mp3,https://archive.org/download/anhsangthanhpho_201807/NhSngThnhPh16_LiMmateanChnhSa.mp3,https://archive.org/download/anhsangthanhpho_201807/NhSngThnhPh17_LiMmateanChnhSa.mp3,https://archive.org/download/anhsangthanhpho_201807/NhSngThnhPh18_LiMmateanChnhSa.mp3,https://archive.org/download/anhsangthanhpho_201807/NhSngThnhPh19_LiMmateanChnhSa.mp3,https://archive.org/download/anhsangthanhpho_201807/NhSngThnhPh20end_LiMmateanChnhSa.mp3",
+}"bookfield3": "NA",
+            "booksource": "https://truyenaudio.org/trinh-tham/doc-gia-thu-7-audio-trinh-tham.html"
+        },
+        {
+            "booktitle": "Ánh sáng thành phố",
+            "bookauthor": "Chưa rõ",
+            "booknumber": 20,
+            "bookthumbnail": "https://truyenaudio.org/upload/pro/Anh-Sang-Thanh-Pho-Truyen-Trinh-Tham.jpg",
+            "bookurlmedia": "https://archive.org/download/anhsangthanhpho_201807/NH%20S%C3%81NG%20TH%C3%80NH%20PH%E1%BB%90%20%231%20_%20L%C3%B4i%20M%E1%BB%85%20%28Matean%20ch%E1%BB%89nh%20s%E1%BB%ADa%29.mp3,https://archive.org/download/anhsangthanhpho_201807/NH%20S%C3%81NG%20TH%C3%80NH%20PH%E1%BB%90%20%232%20_%20L%C3%B4i%20M%E1%BB%85%20%28Matean%20ch%E1%BB%89nh%20s%E1%BB%ADa%29.mp3,https://archive.org/download/anhsangthanhpho_201807/NH%20S%C3%81NG%20TH%C3%80NH%20PH%E1%BB%90%20%233%20_%20L%C3%B4i%20M%E1%BB%85%20%28Matean%20ch%E1%BB%89nh%20s%E1%BB%ADa%29.mp3,https://archive.org/download/anhsangthanhpho_201807/NH%20S%C3%81NG%20TH%C3%80NH%20PH%E1%BB%90%20%234%20_%20L%C3%B4i%20M%E1%BB%85%20%28Matean%20ch%E1%BB%89nh%20s%E1%BB%ADa%29.mp3,https://archive.org/download/anhsangthanhpho_201807/NH%20S%C3%81NG%20TH%C3%80NH%20PH%E1%BB%90%20%235%20_%20L%C3%B4i%20M%E1%BB%85%20%28Matean%20ch%E1%BB%89nh%20s%E1%BB%ADa%29.mp3,https://archive.org/download/anhsangthanhpho_201807/NH%20S%C3%81NG%20TH%C3%80NH%20PH%E1%BB%90%20%236%20_%20L%C3%B4i%20M%E1%BB%85%20%28Matean%20ch%E1%BB%89nh%20s%E1%BB%ADa%29.mp3,https://archive.org/download/anhsangthanhpho_201807/NH%20S%C3%81NG%20TH%C3%80NH%20PH%E1%BB%90%20%237%20_%20L%C3%B4i%20M%E1%BB%85%20%28Matean%20ch%E1%BB%89nh%20s%E1%BB%ADa%29.mp3,https://archive.org/download/anhsangthanhpho_201807/NH%20S%C3%81NG%20TH%C3%80NH%20PH%E1%BB%90%20%238%20_%20L%C3%B4i%20M%E1%BB%85%20%28Matean%20ch%E1%BB%89nh%20s%E1%BB%ADa%29.mp3,https://archive.org/download/anhsangthanhpho_201807/NH%20S%C3%81NG%20TH%C3%80NH%20PH%E1%BB%90%20%239%20_%20L%C3%B4i%20M%E1%BB%85%20%28Matean%20ch%E1%BB%89nh%20s%E1%BB%ADa%29.mp3,https://archive.org/download/anhsangthanhpho_201807/NH%20S%C3%81NG%20TH%C3%80NH%20PH%E1%BB%90%20%2310_%20L%C3%B4i%20M%E1%BB%85%20%28Matean%20ch%E1%BB%89nh%20s%E1%BB%ADa%29.mp3,https://archive.org/download/anhsangthanhpho_201807/NH%20S%C3%81NG%20TH%C3%80NH%20PH%E1%BB%90%20%2311_%20L%C3%B4i%20M%E1%BB%85%20%28Matean%20ch%E1%BB%89nh%20s%E1%BB%ADa%29.mp3,https://archive.org/download/anhsangthanhpho_201807/NH%20S%C3%81NG%20TH%C3%80NH%20PH%E1%BB%90%20%2312_%20L%C3%B4i%20M%E1%BB%85%20%28Matean%20ch%E1%BB%89nh%20s%E1%BB%ADa%29.mp3,https://archive.org/download/anhsangthanhpho_201807/NH%20S%C3%81NG%20TH%C3%80NH%20PH%E1%BB%90%20%2313%20_%20L%C3%B4i%20M%E1%BB%85%20%28Matean%20ch%E1%BB%89nh%20s%E1%BB%ADa%29.mp3,https://archive.org/download/anhsangthanhpho_201807/NH%20S%C3%81NG%20TH%C3%80NH%20PH%E1%BB%90%20%2314%20_%20L%C3%B4i%20M%E1%BB%85%20%28Matean%20ch%E1%BB%89nh%20s%E1%BB%ADa%29.mp3,https://archive.org/download/anhsangthanhpho_201807/NH%20S%C3%81NG%20TH%C3%80NH%20PH%E1%BB%90%20%2315%20_%20L%C3%B4i%20M%E1%BB%85%20%28Matean%20ch%E1%BB%89nh%20s%E1%BB%ADa%29.mp3,https://archive.org/download/anhsangthanhpho_201807/NhSngThnhPh16_LiMmateanChnhSa.mp3,https://archive.org/download/anhsangthanhpho_201807/NhSngThnhPh17_LiMmateanChnhSa.mp3,https://archive.org/download/anhsangthanhpho_201807/NhSngThnhPh18_LiMmateanChnhSa.mp3,https://archive.org/download/anhsangthanhpho_201807/NhSngThnhPh19_LiMmateanChnhSa.mp3,https://archive.org/download/anhsangthanhpho_201807/NhSngThnhPh20end_LiMmateanChnhSa.mp3",
             "bookshortdesc": "Hân hạnh gửi tới quý khán giả tiểu thuyết trinh thám Ánh Sáng Thành Phố của Lôi Mễ. Chúc quý vị có những phút giây thật thư giãn !",
             "booknoibat": 0,
             "bookchude": "Trinh thám",
@@ -5023,88 +5031,4 @@
             "enablethumbnail": 1,
             "enablebook": 1,
             "bookfield3": "NA",
-            "booksource": "https://truyenaudio.org/truyen-dai/"
-        },
-        {
-            "booktitle": "Người ngủ thuê",
-            "bookauthor": "Chưa rõ",
-            "booknumber": 1,
-            "bookthumbnail": "https://truyenaudio.org/upload/pro/Nguoi-ngu-thue.jpg",
-            "bookurlmedia": "https://archive.org/download/nguoinguthue/TruynDiNgiNgThu-TcGiNhtPhi.mp3",
-            "bookshortdesc": "Nhân vật trung tâm trong truyện là một thanh niên làm nghề ngủ thuê cho những khách hàng không muốn mất thời gian cho việc đi ngủ. Đề tài lạ kết hợp với một cây bút viết mượt mà tạo nên một tác phẩm thú vị chứa đựng thông điệp ý nghĩa về một kiểu thanh niên sống nhàm chán, mỏi mệt và đã lãng quên ước mơ. Hành trình tìm lại chính mình của nhân vật diễn ra rất tự nhiên qua những lần tiếp xúc với những khách hàng kỳ lạ.",
-            "booknoibat": 0,
-            "bookchude": "Truyện dài",
-            "booksingle": 0,
-            "enablethumbnail": 1,
-            "enablebook": 1,
-            "bookfield3": "NA",
-            "booksource": "https://truyenaudio.org/truyen-dai/"
-        },
-        {
-            "booktitle": "Số đỏ",
-            "bookauthor": "VŨ TRỌNG PHỤNG",
-            "booknumber": 20,
-            "bookthumbnail": "https://truyenaudio.org/upload/pro/So-do-Vu-Trong-Phung.jpg",
-            "bookurlmedia": "https://archive.org/download/SoDoVuTrongPhungAudio/SoDo-VuTrongPhung-Audio-P01.mp3,https://archive.org/download/SoDoVuTrongPhungAudio/SoDo-VuTrongPhung-Audio-P02.mp3,https://archive.org/download/SoDoVuTrongPhungAudio/SoDo-VuTrongPhung-Audio-P03.mp3,https://archive.org/download/SoDoVuTrongPhungAudio/SoDo-VuTrongPhung-Audio-P04.mp3,https://archive.org/download/SoDoVuTrongPhungAudio/SoDo-VuTrongPhung-Audio-P05.mp3,https://archive.org/download/SoDoVuTrongPhungAudio/SoDo-VuTrongPhung-Audio-P06.mp3,https://archive.org/download/SoDoVuTrongPhungAudio/SoDo-VuTrongPhung-Audio-P07.mp3,https://archive.org/download/SoDoVuTrongPhungAudio/SoDo-VuTrongPhung-Audio-P08.mp3,https://archive.org/download/SoDoVuTrongPhungAudio/SoDo-VuTrongPhung-Audio-P09.mp3,https://archive.org/download/SoDoVuTrongPhungAudio/SoDo-VuTrongPhung-Audio-P10.mp3,https://archive.org/download/SoDoVuTrongPhungAudio/SoDo-VuTrongPhung-Audio-P11.mp3,https://archive.org/download/SoDoVuTrongPhungAudio/SoDo-VuTrongPhung-Audio-P12.mp3,https://archive.org/download/SoDoVuTrongPhungAudio/SoDo-VuTrongPhung-Audio-P13.mp3,https://archive.org/download/SoDoVuTrongPhungAudio/SoDo-VuTrongPhung-Audio-P14.mp3,https://archive.org/download/SoDoVuTrongPhungAudio/SoDo-VuTrongPhung-Audio-P15.mp3,https://archive.org/download/SoDoVuTrongPhungAudio/SoDo-VuTrongPhung-Audio-P16.mp3,https://archive.org/download/SoDoVuTrongPhungAudio/SoDo-VuTrongPhung-Audio-P17.mp3,https://archive.org/download/SoDoVuTrongPhungAudio/SoDo-VuTrongPhung-Audio-P18.mp3,https://archive.org/download/SoDoVuTrongPhungAudio/SoDo-VuTrongPhung-Audio-P19.mp3,https://archive.org/download/SoDoVuTrongPhungAudio/SoDo-VuTrongPhung-Audio-P20.mp3",
-            "bookshortdesc": "Số đỏ là một tiểu thuyết văn học của nhà văn Vũ Trọng Phụng, đăng ở Hà Nội báo từ số 40 ngày 7 tháng 10 1936 và được in thành sách lần đầu vào năm 1938. Nhiều nhân vật và câu nói trong tác phẩm đã đi vào cuộc sống đời thường và tác phẩm đã được dựng thành kịch, phim. Nhân vật chính của Số đỏ là Xuân - biệt danh là Xuân Tóc đỏ, từ chỗ là một kẻ bị coi là hạ lưu, bỗng nhảy lên tầng lớp danh giá của xã hội nhờ trào lưu Âu hóa của giới tiểu tư sản Hà Nội khi đó. Tác phẩm Số đỏ, cũng như các tác phẩm khác của Vũ Trọng Phụng đã từng bị cấm lưu hành tại Việt Nam Dân chủ Cộng hòa trước năm 1975 cũng như tại Việt Nam thống nhất cho đến năm 1986 cho đến nay, tác phẩm \"Số Đỏ\" đã được tái xuất bản và được phê duyệt ở Việt Nam. Đồng thời tác phẩm này cũng được đưa vào chương trình học ở trong nước. \n\nTruyện dài 20 chương và được bắt đầu khi bà Phó Đoan đến chơi ở sân quần vợt nơi Xuân tóc đỏ làm việc. Vô tình Xuân tóc đỏ vì xem trộm 1 cô đầm thay đồ nên bị cảnh sát bắt giam và được bà Phó Đoan bảo lãnh. Sau đó, bà Phó Đoan giới thiệu Xuân đến làm việc ở tiệm may Âu Hóa, từ đó Xuân bắt đầu tham gia vào việc cải cách xã hội. Nhờ thuộc lòng những bài quảng cáo thuốc lậu, hắn được vợ chồng Văn Minh gọi là \"sinh viên trường thuốc\", \"đốc tờ Xuân\". Hắn gia nhập xã hội thượng lưu, quen với những người giàu và có thế lực, quyến rũ được cô Tuyết và phát hiện cô Hoàng Hôn ngoại tình. Xuân còn được bà Phó đoan nhờ dạy dỗ cậu Phước, được nhà sư Tăng Phú mời làm cố vấn cho báo Gõ Mõ. Vì vô tình, hắn gây ra cái chết cho cụ cố tổ nên được mọi người mang ơn. Văn Minh vì nghĩ ơn của Xuân nên dẫn Xuân đi xóa bỏ lý lịch trước kia rồi đăng ký đi tranh giải quần vợt nhân dịp vua Xiêm đến Bắc Kì. Bằng thủ đoạn xảo trá, hắn làm 2 vận động viên quán quân bị bắt ngay trước hôm thi đấu nên Xuân được dịp thi tài với quán quân Xiêm. Vì để giữ tỉnh giao hảo, hắn được lệnh phải thua. Kết thúc trận đấu, khi bị đám đông phản đối, Xuân hùng hồn diễn thuyết cho đám đông dân chúng hiểu hành động \"hi sinh vì tổ quốc của mình\", được mời vào hội Khai trí tiến đức, được nhận huân chương Bắc Đẩu bội tinh và cuối cùng trở thành con rể cụ cố Hồng.\n\nMời quý vị và các bạn lắng nghe.",
-            "booknoibat": 0,
-            "bookchude": "Truyện dài",
-            "booksingle": 0,
-            "enablethumbnail": 1,
-            "enablebook": 1,
-            "bookfield3": "NA",
-            "booksource": "https://truyenaudio.org/truyen-dai/"
-        },
-        {
-            "booktitle": "Trong quan tài buồn",
-            "bookauthor": "NGUYỄN NGỌC NGẠN",
-            "booknumber": 1,
-            "bookthumbnail": "https://truyenaudio.org/upload/pro/Trong-quan-tai-buon-Nguyen-Ngoc-Ngan.jpg",
-            "bookurlmedia": "https://archive.org/download/TrongQuanTaiBuon/Trong Quan Tài Buồn - Full.mp3",
-            "bookshortdesc": "Hiện tại chưa có tóm tắt",
-            "booknoibat": 0,
-            "bookchude": "Truyện dài",
-            "booksingle": 0,
-            "enablethumbnail": 1,
-            "enablebook": 1,
-            "bookfield3": "NA",
-            "booksource": "https://truyenaudio.org/truyen-dai/"
-        },
-        {
-            "booktitle": "Cái sân, cây chuối và thằng cu",
-            "bookauthor": "TRUYỆN MA",
-            "booknumber": 8,
-            "bookthumbnail": "https://truyenaudio.org/upload/pro/Cai-san-cay-chuoi-va-thang-cu-truyen-ma.jpg",
-            "bookurlmedia": "https://archive.org/download/caisancaychuoivathangcu-truyenaudio.org/caisancaychuoivathangcu_p01-truyenaudio.org.mp3,https://archive.org/download/caisancaychuoivathangcu-truyenaudio.org/caisancaychuoivathangcu_p02-truyenaudio.org.mp3,https://archive.org/download/caisancaychuoivathangcu-truyenaudio.org/caisancaychuoivathangcu_p03-truyenaudio.org.mp3,https://archive.org/download/caisancaychuoivathangcu-truyenaudio.org/caisancaychuoivathangcu_p04-truyenaudio.org.mp3,https://archive.org/download/caisancaychuoivathangcu-truyenaudio.org/caisancaychuoivathangcu_p05truyenaudio.org.mp3,https://archive.org/download/caisancaychuoivathangcu-truyenaudio.org/caisancaychuoivathangcu_p06truyenaudio.org.mp3,https://archive.org/download/caisancaychuoivathangcu-truyenaudio.org/caisancaychuoivathangcu_p07truyenaudio.org.mp3,https://archive.org/download/caisancaychuoivathangcu-truyenaudio.org/caisancaychuoivathangcu_p08truyenaudio.org.mp3",
-            "bookshortdesc": "\"Cái sân, cây chuối và thằng cu\" là bộ truyện ma dân gian Việt Nam truyền lại, rất hay và hấp dẫn TruyenAudio.Org xin giới thiệu với quý vị và các bạn bộ truyện này qua giọng đọc của Hoàng Hương.",
-            "booknoibat": 0,
-            "bookchude": "Truyện dài",
-            "booksingle": 0,
-            "enablethumbnail": 1,
-            "enablebook": 1,
-            "bookfield3": "NA",
-            "booksource": "https://truyenaudio.org/truyen-dai/"
-        }
-    ],
-    "Lichsu": [
-        {
-            "booktitle": "1000 năm bắc thuộc - sử việt hùng ca",
-            "bookauthor": "Hồ Quý Ly",
-            "booknumber": 1,
-            "bookthumbnail": "https://truyenaudio.org/upload/pro/1000-nam-Bac-thuoc-Su-Viet-hung-ca.png",
-            "bookurlmedia": "https://ia800107.us.archive.org/6/items/1000nambacthuoc/1000%20n%C4%83m%20B%E1%BA%AFc%20thu%E1%BB%99c%20-%20S%E1%BB%AD%20Vi%E1%BB%87t%20H%C3%B9ng%20Ca.mp3",
-            "bookshortdesc": "Mời quý vị khán thính giả cùng lắng nghe câu chuyện lịch sử 1000 năm Bắc thuộc qua giọng kể tếu táo của Đạt Phi",
-            "booknoibat": 0,
-            "bookchude": "Lịch sử",
-            "booksingle": 0,
-            "enablethumbnail": 1,
-            "enablebook": 1,
-            "bookfield3": "NA",
-            "booksource": "https://truyenaudio.org/lich-su/1000-nam-bac-thuoc-su-viet-hung-ca.html"
-        },
-        {
-            "booktitle": "Chuyện kể về Bác Hồ",
-            "bookauthor": "Chưa rõ",
-            "booknumber": 11,
-            "bookthumbnail": "https://photo-1-baomoi.zadn.vn/w1000_r1/2019_02_04_91_29573235/8c5f7366e7270e795736.jpg",
-            "bookurlmedia": "https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps,%20CD%20Transparent%20Audio[0].mp3,https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps,%20CD%20Transparent%20Audio[1].mp3,https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps,%20CD%20Transparent%20Audio[2].mp3,https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3 Audio_192 Kbps, CD Transparent Audio[3].mp3,https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps,%20CD%20Transparent%20Audio[4].mp3,https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps,%20CD%20Transparent%20Audio[5].mp3,https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps,%20CD%20Transparent%20Audio[6].mp3,https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps,%20CD%20Transparent%20Audio[7].mp3,https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps,%20CD%20Transparent%20Audio[8].mp3,https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps,%20CD%20Transparent%20Audio[9].mp3,https://archive.org/download/chuyenkevebacho/Chuyenkevebacho_MP3%20Audio_192%20Kbps,%20
+            "booksource": "http
