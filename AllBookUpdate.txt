@@ -18,19 +18,7 @@
             "fandevicetestid": "e05e580a-1277-43b6-9902-5df54b1f0bae"
         }
     ],
-    "Theloai": [
-        {
-            "theloaititle": "xxx",
-            "theloaithumbmail": "https://vn24h.info/wp-content/uploads/2019/04/4-1.jpg",
-            "theloaiid": 10,
-            "theloaidesc": "Tinh yeu gioi tinh - Tuyển chọn truyện tình yêu lãng mạn cảm động được yêu thích. Đọc truyện tình yêu buồn, những mẩu tâm sự tình yêu hấp dẫn.",
-            "theloainumber": 19,
-            "enablethumbnail": 1,
-            "enabletheloai": 1,
-            "theloaibackupfeild3": "NA",
-            "key": "Tinhyeu"
-        }
-    ],
+    "Theloai": [],
     "Author": [],
     "Noibat": [],
     "Truyenma": [],
