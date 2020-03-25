@@ -18,55 +18,12 @@
             "fandevicetestid": "e05e580a-1277-43b6-9902-5df54b1f0bae"
         }
     ],
-    "Theloai": [
-        {
-            "theloaititle": "Truyện ngắn",
-            "theloaithumbmail": "https://vanhoadoanhnghiepvn.vn/wp-content/uploads/2017/12/truyen-ngan.jpg",
-            "theloaiid": 2,
-            "theloaidesc": "Truyện ngắn là một thể loại văn học. Nó thường là các câu chuyện kể bằng văn xuôi và có xu hướng ngắn gọn, súc tích và hàm nghĩa hơn các câu truyện dài như tiểu thuyết. Thông thường truyện ngắn có độ dài chỉ từ vài dòng đến vài chục trang, trong khi đó tiểu thuyết rất khó dừng lại ở con số đó. Vì thế, tình huống truyện luôn là vấn đề quan trọng bậc nhất của nghệ thuật truyện ngắn.",
-            "theloainumber": 37,
-            "enablethumbnail": 1,
-            "enabletheloai": 1,
-            "theloaibackupfeild3": "NA",
-            "key": "Truyenngan"
-        }
-    ],
+    "Theloai": [],
     "Author": [],
     "Noibat": [],
     "Truyenma": [],
     "Ngontinh": [],
-    "Truyenngan": [
-        {
-            "booktitle": "Bàn có năm chổ ngồi",
-            "bookauthor": "Nguyễn Nhật Ánh",
-            "booknumber": 1,
-            "bookthumbnail": "https://sachhayebook.com/wp-content/uploads/2019/04/ban-co-5-cho-ngoi-sachhay-ebook.jpg",
-            "bookurlmedia": "https://www.dropbox.com/s/mztx0eppxjumj7e/B%C3%A0n%20c%C3%B3%20n%C4%83m%20ch%E1%BB%97%20ng%E1%BB%93i%20%5BNguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%5D.mp3?dl=1",
-            "bookshortdesc": "Tác giả quen thuộc của thiếu nhi, của tuổi ô mai. Những tập truyện của anh luôn dí dỏm, hài hước, đem lại nhiều cảm xúc, nhiều bài học nhẹ nhàng cho lứa tuổi học trò. \n \nHãy đọc để cùng gặp những nhân vật rất dễ thương, hoặc phải vượt qua những hoàn cảnh khó khăn, hoặc sẵn lòng chia sẻ với bạn bè, người thân… Thậm chí cả những nhân vật tạm gọi là “phe xấu” với nhiều trò đùa nghịch… cũng mang dáng dấp hồn nhiên. Tất cả hướng về Chân - Thiện - Mỹ. \n \nHọ là năm người bạn với năm cá tính và hoàn cảnh khác nhau cùng chung trong một lớp học. Những trò nghịch ngợm trẻ con đôi khi gây ra mâu thuẫn, nhưng trên tất cả đó là những đứa trẻ ham học, giàu lòng nhân ái và biết quan tâm đến bạn bè. Cảm thông với hoàn cảnh của nhau, từng bạn nghĩ ra cách giúp đỡ bạn mình theo khả năng để tình bạn ấy lớn dần theo năm tháng.",
-            "booknoibat": 0,
-            "bookchude": "Truyện ngắn",
-            "booksingle": 0,
-            "enablethumbnail": 1,
-            "enablebook": 1,
-            "bookfield3": "NA",
-            "booksource": "http://www.sachnoionline.com/nghe-sach/ban-co-nam-cho-ngoi-nguoi-doc-nguyen-minh-loc"
-        },
-        {
-            "booktitle": "Buổi chiều Windows",
-            "bookauthor": "Nguyễn Nhật Ánh",
-            "booknumber": 2,
-            "bookthumbnail": "https://vnwriter.net/wp-content/uploads/2017/08/sach-buoi-chieu-windows.jpg",
-            "bookurlmedia": "https://www.dropbox.com/s/4e7n1tvr34yvqkg/Bu%E1%BB%95i%20Chi%E1%BB%81u%20Windows%20-%20Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20-%20Ph%E1%BA%A7n%2001.mp3?dl=1,https://www.dropbox.com/s/ujbdbg86pebtg2t/Bu%E1%BB%95i%20Chi%E1%BB%81u%20Windows%20-%20Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20-%20Ph%E1%BA%A7n%2002%20end.mp3?dl=1",
-            "bookshortdesc": "Hẳn bạn đọc ở lứa tuổi học trò đã từng quen thuộc với tác giả Nguyễn Nhật Anh với những truyện ngắn và truyện dài đậm chất học trò như: Trại hoa vàng, Chú bé rắc rối, Phòng trọ ba người, Bồ câu không đưa thư, Những chàng trai xấu tính, Cô gái đến từ hôm qua, Trước vòng chung kết, Hạ đỏ, Hoa hồng xứ khác, Buổi chiều Windows, Ut Quyên và tôi... Với lối viết dung dị và cách chọn đề tài gần gũi với lứa tuổi học trò, như quan hệ thầy trò, trường lớp, bạn bè, gia đình... nên những truyện của ông chiếm được cảm tình của rất nhiều bạn đọc nhỏ tuổi. Họ hào hứng và nóng lóng đón đọc các trang viết của ông. Chúng tôi sẽ lần lượt giới thiệu với bạn đọc các tác phẩm của ông.",
-            "booknoibat": 0,
-            "bookchude": "Truyện ngắn",
-            "booksingle": 0,
-            "enablethumbnail": 1,
-            "enablebook": 1,
-            "bookfield3": "NA",
-            "booksource": "http://www.sachnoionline.com/nghe-sach/buoi-chieu-windows"
-        }
-    ],
+    "Truyenngan": [],
     "Kiemhiep": [],
     "Trinhtham": [],
     "Cotich": [],
